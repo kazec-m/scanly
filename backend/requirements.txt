@@ -1,0 +1,36 @@
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+
+# DB・ORM・マイグレーション
+sqlalchemy==2.0.36
+alembic==1.14.0
+psycopg2-binary==2.9.10
+
+# 環境変数
+python-dotenv==1.0.1
+
+# Firebase Auth
+firebase-admin==6.6.0
+
+# OpenAI
+openai==1.57.0
+
+# Cloudinary
+cloudinary==1.41.0
+
+# Stripe
+stripe==11.3.0
+
+# SendGrid
+sendgrid==6.11.0
+
+# Celery + Redis
+celery==5.4.0
+redis==5.2.1
+
+# バリデーション
+pydantic==2.10.3
+pydantic-settings==2.6.1
+
+# ファイルアップロード
+python-multipart==0.0.20
