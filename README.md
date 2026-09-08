@@ -1,4 +1,5 @@
 # Scanly
+https://team-b-section9-deploy.vercel.app/login
 
 家庭や学校から届く書類を、スマホで撮影するだけで自動管理できるアプリです。OpenAIのマルチモーダル機能で書類の種類・期限を自動解析し、家族グループのカレンダーへ即座に登録・通知します。
 
